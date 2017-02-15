@@ -1,0 +1,9 @@
+{
+  "name": "terminal-clear",
+  "version": "0.1.0",
+  "description": "clear terminal",
+  "main": "index.js",
+  "repository": "https://github.com/VanishingDante/terminal-clear.git",
+  "author": "VanishingDante <VanishingDante@gmail.com>",
+  "license": "MIT"
+}
